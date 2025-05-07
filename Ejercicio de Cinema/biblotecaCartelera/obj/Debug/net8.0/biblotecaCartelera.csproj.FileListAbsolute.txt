@@ -1,0 +1,22 @@
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\bin\Debug\net8.0\biblotecaCartelera.deps.json
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\bin\Debug\net8.0\biblotecaCartelera.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\bin\Debug\net8.0\biblotecaCartelera.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.AssemblyInfoInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.AssemblyInfo.cs
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.csproj.CoreCompileInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\refint\biblotecaCartelera.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\ref\biblotecaCartelera.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\bin\Debug\net8.0\biblotecaCartelera.deps.json
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\bin\Debug\net8.0\biblotecaCartelera.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\bin\Debug\net8.0\biblotecaCartelera.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\refint\biblotecaCartelera.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\biblotecaCartelera.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaCartelera\obj\Debug\net8.0\ref\biblotecaCartelera.dll

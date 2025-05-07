@@ -1,0 +1,30 @@
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\bin\Debug\net8.0\biblotecaSalas.deps.json
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\bin\Debug\net8.0\biblotecaSalas.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\bin\Debug\net8.0\biblotecaSalas.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.AssemblyInfoInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.AssemblyInfo.cs
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.csproj.CoreCompileInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\refint\biblotecaSalas.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\ref\biblotecaSalas.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.csproj.AssemblyReference.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\bin\Debug\net8.0\biblotecaCartelera.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\bin\Debug\net8.0\biblotecaCartelera.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotec.3DEDEFC0.Up2Date
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\bin\Debug\net8.0\biblotecaSalas.deps.json
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\bin\Debug\net8.0\biblotecaSalas.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\bin\Debug\net8.0\biblotecaSalas.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\bin\Debug\net8.0\biblotecaCartelera.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\bin\Debug\net8.0\biblotecaCartelera.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotec.3DEDEFC0.Up2Date
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\refint\biblotecaSalas.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\biblotecaSalas.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaSalas\obj\Debug\net8.0\ref\biblotecaSalas.dll

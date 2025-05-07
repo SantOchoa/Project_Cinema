@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "biblotecaTaquilla/1.0.0": {
+        "dependencies": {
+          "biblotecaCartelera": "1.0.0",
+          "biblotecaSalas": "1.0.0"
+        },
+        "runtime": {
+          "biblotecaTaquilla.dll": {}
+        }
+      },
+      "biblotecaCartelera/1.0.0": {
+        "runtime": {
+          "biblotecaCartelera.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "biblotecaSalas/1.0.0": {
+        "dependencies": {
+          "biblotecaCartelera": "1.0.0"
+        },
+        "runtime": {
+          "biblotecaSalas.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "biblotecaTaquilla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "biblotecaCartelera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "biblotecaSalas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

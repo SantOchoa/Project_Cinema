@@ -1,0 +1,34 @@
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaTaquilla.deps.json
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaTaquilla.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaTaquilla.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.AssemblyInfoInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.AssemblyInfo.cs
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.csproj.CoreCompileInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\refint\biblotecaTaquilla.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\ref\biblotecaTaquilla.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.csproj.AssemblyReference.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaCartelera.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaCartelera.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotec.8FAEABC1.Up2Date
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaSalas.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaSalas.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaTaquilla.deps.json
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaTaquilla.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaTaquilla.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaCartelera.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaSalas.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaCartelera.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\bin\Debug\net8.0\biblotecaSalas.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotec.8FAEABC1.Up2Date
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\refint\biblotecaTaquilla.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\biblotecaTaquilla.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaTaquilla\obj\Debug\net8.0\ref\biblotecaTaquilla.dll

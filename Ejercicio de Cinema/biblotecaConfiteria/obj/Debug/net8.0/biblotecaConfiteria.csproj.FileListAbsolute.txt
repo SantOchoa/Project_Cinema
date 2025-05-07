@@ -1,0 +1,22 @@
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\bin\Debug\net8.0\biblotecaConfiteria.deps.json
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\bin\Debug\net8.0\biblotecaConfiteria.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\bin\Debug\net8.0\biblotecaConfiteria.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.AssemblyInfoInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.AssemblyInfo.cs
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.csproj.CoreCompileInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\refint\biblotecaConfiteria.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\ref\biblotecaConfiteria.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\bin\Debug\net8.0\biblotecaConfiteria.deps.json
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\bin\Debug\net8.0\biblotecaConfiteria.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\bin\Debug\net8.0\biblotecaConfiteria.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\refint\biblotecaConfiteria.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\biblotecaConfiteria.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\biblotecaConfiteria\obj\Debug\net8.0\ref\biblotecaConfiteria.dll

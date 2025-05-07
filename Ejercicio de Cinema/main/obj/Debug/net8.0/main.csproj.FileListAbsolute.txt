@@ -1,0 +1,48 @@
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\main.exe
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\main.deps.json
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\main.runtimeconfig.json
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\main.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\main.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaCartelera.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaConfiteria.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaSalas.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaTaquilla.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaCartelera.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaConfiteria.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaSalas.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaTaquilla.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\main.csproj.AssemblyReference.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\main.AssemblyInfoInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\main.AssemblyInfo.cs
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\main.csproj.CoreCompileInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\main.csproj.Up2Date
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\main.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\refint\main.dll
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\main.pdb
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\main.genruntimeconfig.cache
+C:\Users\jimen\OneDrive\Escritorio\Ejercicio de Cinema\main\obj\Debug\net8.0\ref\main.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\main.exe
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\main.deps.json
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\main.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\main.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\main.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaCartelera.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaConfiteria.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaSalas.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaTaquilla.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaCartelera.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaConfiteria.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaSalas.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\bin\Debug\net8.0\biblotecaTaquilla.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\main.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\main.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\main.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\main.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\main.csproj.Up2Date
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\main.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\refint\main.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\main.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\main.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Ejercicio de Cinema\main\obj\Debug\net8.0\ref\main.dll
